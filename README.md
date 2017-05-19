@@ -16,7 +16,7 @@ To simulate the website, below are required:
 
 
 
-Test:
+Test (Step 1):
 
 
 With above preparation done, edit the website with following steps:
@@ -55,3 +55,41 @@ With above preparation done, edit the website with following steps:
 9.  in the redirect.html change url to redirect url.
 
     ![idea_05](./img/11.png)
+
+Deploy Using Cpanel(Step 2):
+
+10.  compress .html, images, js, and css file inside one .zip file
+
+    ![idea_05](./img/20.png)
+
+11. buy host server such as (https://www.bluehost.com/) or (https://www.hostgator.com).
+
+12. after buy host server, login in and click cpanel.
+
+13. use file manager to upload file.
+
+    ![idea_05](./img/21.png)
+
+14. click submit
+
+    ![idea_05](./img/22.png)
+
+15. click upload
+
+    ![idea_05](./img/23.png)
+
+15. select zip file
+
+    ![idea_05](./img/24.png)
+
+15. extract zip file
+
+    ![idea_05](./img/25.png)
+
+16. redirect domain to domian/index.html in the cpanel
+
+    ![idea_05](./img/27.png)
+
+17. after click redirect and set redirect page
+
+    ![idea_05](./img/28.png)
