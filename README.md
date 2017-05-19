@@ -60,7 +60,6 @@ With above preparation done, edit the website with following steps:
 
 10.  compress .html, images, js, and css file inside one .zip file
 
-    ![idea_05](./img/20.png)
 
 11. buy host server such as (https://www.bluehost.com/) or (https://www.hostgator.com).
 
