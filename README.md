@@ -16,7 +16,7 @@ To simulate the website, below are required:
 
 
 
-Test (Step 1):
+# Test (Step 1):
 
 
 With above preparation done, edit the website with following steps:
@@ -56,7 +56,7 @@ With above preparation done, edit the website with following steps:
 
     ![idea_05](./img/11.png)
 
-Deploy Using Cpanel(Step 2):
+# Deploy Using Cpanel(Step 2):
 
 10.  compress .html, images, js, and css file inside one .zip file
 
