@@ -22,7 +22,7 @@ Test:
 With above preparation done, edit the website with following steps:
 
 
-1.  Open index.html using sublime.
+1.  Open index.html using sublime to edit, Open index.html using chrome or firefox to display the website.
 
 2.  from line 97 to 149 is navigation part
 
