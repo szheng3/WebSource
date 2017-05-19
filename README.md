@@ -51,3 +51,7 @@ With above preparation done, edit the website with following steps:
 8.  from line 649 to 680 is the footer part.
 
     ![idea_05](./img/7.png)
+
+9.  in the redirect.html change url to redirect url.
+
+    ![idea_05](./img/11.png)
