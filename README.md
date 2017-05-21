@@ -58,8 +58,12 @@ With above preparation done, edit the website with following steps:
 
     ![idea_05](./img/27.png)
 
-1. after click redirect and set redirect page
+11. after click redirect and set redirect page
 
     ![idea_05](./img/28.png)
+
+12. in the js/custom.js change your email change in order to people contact with you. 
+
+    ![idea_05](./img/201.png)
 
 
