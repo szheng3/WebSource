@@ -214,9 +214,7 @@ jQuery(document).ready(function () {
 //sendemail
 
 });
-$(document).ready(function() {
-    $("#demo").html("Hello, World!");
-});
+
 
 
 $(document).ready(function() {
