@@ -93,7 +93,7 @@
                 //If it was scrolled
                 if (self.didScroll) {
                     self.didScroll = false;
-                    self.scrollChange();
+                    // self.scrollChange();
                 }
 
                 //If the document height changes
