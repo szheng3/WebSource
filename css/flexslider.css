@@ -75,7 +75,7 @@ html[xmlns] .slides {display: block;}
   .flex-direction-nav .flex-next {opacity: 1; right: -36px;}
 }
 section.slider {
-padding-top: 33%;
+/*padding-top: 33%;*/
 }
 @media screen and (max-width: 640px) {
   .flex-direction-nav a {

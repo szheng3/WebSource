@@ -13,7 +13,7 @@
 /* ===================================
 	HIGHLIGHT
 ====================================== */
-span.clean-color-contras{
+span.color-contras{
 	color: #CC6600;
 }
 
@@ -106,12 +106,12 @@ span.clean-color-contras{
 	color: #fff;
 }
 
-.clean-main-menu .navbar-nav li a:hover,
-.clean-main-menu .navbar-nav li.active a{
+.main-menu .navbar-nav li a:hover,
+.main-menu .navbar-nav li.active a{
     color: #151B54;
 }
 
-.clean-slider .sp-selected-button {
+.slider .sp-selected-button {
   	background-color: #CC6600;
 }
 
@@ -119,7 +119,7 @@ span.clean-color-contras{
 	color: #CC6600;
 }
 
-.clean-line{
+.line{
 	background-color: #CC6600;
 }
 
@@ -130,11 +130,11 @@ span.clean-color-contras{
 /* ===================================
 	FEATURED WORK
 ====================================== */
-.clean-port-work-details .clean-port-work-desc p a:hover{
+.port-work-details .clean-port-work-desc p a:hover{
 	color: #CC6600;
 }
 
-.clean-port-work-details .clean-port-work-desc h3{
+.port-work-details .clean-port-work-desc h3{
 	color: #CC6600;
 }
 
@@ -156,7 +156,7 @@ span.clean-color-contras{
 	border-left: 1px dotted #CC6600;
 	border-right: 1px dotted #CC6600;
 }
-.clean-portfolio-work-item .clean-work-meta li{
+.portfolio-work-item .work-meta li{
 	background-color: #CC6600;
 }
 /* ===================================
@@ -199,15 +199,15 @@ span.clean-color-contras{
 /* ===================================
 	CONTACT
 ====================================== */
-.clean-contact-section .clean-contact-address ul li {
+.contact-section .clean-contact-address ul li {
 	background-color: #CC6600;
 }
 
-.clean-contact-section .clean-contact-form input[type='submit']{
+.contact-section .clean-contact-form input[type='submit']{
 	background-color: #CC6600;
 }
 
-.clean-contact-section .clean-contact-form input[type='submit']:hover{
+.contact-section .clean-contact-form input[type='submit']:hover{
 	opacity: 0.7;
 }
 

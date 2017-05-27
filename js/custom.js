@@ -19,9 +19,9 @@ jQuery(document).ready(function () {
      ====================================== */
     $(window).on('ready , scroll', function () {
         if ($(window).scrollTop() > 30) {
-            $('.clean-main-menu').addClass('minified');
+            $('.main-menu').addClass('minified');
         } else {
-            $('.clean-main-menu').removeClass('minified');
+            $('.main-menu').removeClass('minified');
         }
     });
 
@@ -82,7 +82,7 @@ jQuery(document).ready(function () {
     /* ===================================
      FEATURED WORKS
      ====================================== */
-    $('.clean-featured-work-img').magnificPopup({
+    $('.featured-work-img').magnificPopup({
         type: 'image',
         gallery: {
             enabled: true
@@ -128,7 +128,7 @@ jQuery(document).ready(function () {
     });
 
     // Feature Works
-    $("#clean-testimonial").owlCarousel({
+    $("#testimonial").owlCarousel({
         items: 1,
         itemsDesktop: [1199, 1],
         itemsDesktopSmall: [979, 1],
@@ -149,7 +149,7 @@ jQuery(document).ready(function () {
     /* ===================================
      ISOTOPE
      ====================================== */
-    var $container = $('.clean-portfolio-items');
+    var $container = $('.portfolio-items');
 
     // filter items on button click
     $container.isotope({
@@ -163,7 +163,7 @@ jQuery(document).ready(function () {
     });
 
 
-    $('#clean-portfolio-filter ul li a').on('click', function () {
+    $('#portfolio-filter ul li a').on('click', function () {
         var selector = $(this).attr('data-filter');
         $container.isotope({
             filter: selector,
@@ -176,7 +176,7 @@ jQuery(document).ready(function () {
         return false;
     });
 
-    var $optionSets = $('#clean-portfolio-filter ul'),
+    var $optionSets = $('#portfolio-filter ul'),
         $optionLinks = $optionSets.find('a');
 
     $optionLinks.on('click', function () {
@@ -185,7 +185,7 @@ jQuery(document).ready(function () {
         if ($this.hasClass('selected')) {
             return false;
         }
-        var $optionSet = $this.parents('#clean-portfolio-filter ul');
+        var $optionSet = $this.parents('#portfolio-filter ul');
         $optionSet.find('.selected').removeClass('selected');
         $this.addClass('selected');
     });
@@ -194,7 +194,7 @@ jQuery(document).ready(function () {
     /* ===================================
      SLIDER
      ====================================== */
-    $('#clean-slider').sliderPro({
+    $('#slider').sliderPro({
         width: '100%',
         height: 768,
         fade: true,
