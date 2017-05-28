@@ -13,132 +13,132 @@
 /* ===================================
 	HIGHLIGHT
 ====================================== */
-span.clean-color-contras{
+span.zzcolor-contras{
 	color: #CC6600;
 }
 
 /* ===================================
 	SOLID BUTTON
 ====================================== */
-.clean-button-solid{
+.zzbutton-solid{
 	background-color: #CC6600;
 }
 
-.clean-button-solid:hover{
+.zzbutton-solid:hover{
 	opacity: 0.7;
 }
 
 /* ===================================
 	OUTLINE BUTTON
 ====================================== */
-.clean-button-outline-light:hover{
+.zzbutton-outline-light:hover{
 	background-color: #CC6600
 }
 
 /* ===================================
 	DARK BUTTON
 ====================================== */
-.clean-button-outline-dark:hover{
+.zzbutton-outline-dark:hover{
 	background-color: #CC6600;
 }
 
 /* ===================================
 	ROUND BTN
 ====================================== */
-.clean-btn-round{
+.zzbtn-round{
 	background-color: #CC6600;
 }
 
-.clean-btn-round:hover{
+.zzbtn-round:hover{
 	opacity: 0.7;
 }
 
 /* ===================================
 	ICON
 ====================================== */
-.clean-blurb-icon-only i{
+.zzblurb-icon-only i{
 	color: #CC6600;
 }
 
-.clean-blurb-icon-only h3{
+.zzblurb-icon-only h3{
 	color: #CC6600
 }
 
 /* ===================================
 	ROUND ICON
 ====================================== */
-.clean-blurb-round-icon:hover .clean-icon{
+.zzblurb-round-icon:hover .zzicon{
 	background-color: #CC6600;
 }
 
-.clean-icones .clean-icon i {
+.zzicones .zzicon i {
 	color: #dadada;
 }
 
-.clean-blurb-round-icon:hover h3{
+.zzblurb-round-icon:hover h3{
 	color: #CC6600;
 }
 
 /* ===================================
 	ICON SQUARE
 ====================================== */
-.clean-icones:hover .clean-blurb-text h3{
+.zzicones:hover .zzblurb-text h3{
 	color: #CC6600;
 }
 
-.clean-icones:hover .clean-blurb-text h3:after{
+.zzicones:hover .zzblurb-text h3:after{
 	background-color: #CC6600;
 }
 
-.clean-icones .clean-blurb-text h3:after {
+.zzicones .zzblurb-text h3:after {
 	background-color: #CC6600;
 }
 
-.clean-icones .clean-icon:hover {
-	background-color: #CC6600;
-	border: none;
-	color: #fff;
-}
-
-.clean-icones .clean-icon:hover i{
+.zzicones .zzicon:hover {
 	background-color: #CC6600;
 	border: none;
 	color: #fff;
 }
 
-.clean-main-menu .navbar-nav li a:hover,
-.clean-main-menu .navbar-nav li.active a{
+.zzicones .zzicon:hover i{
+	background-color: #CC6600;
+	border: none;
+	color: #fff;
+}
+
+.main-menu .navbar-nav li a:hover,
+.main-menu .navbar-nav li.active a{
     color: #151B54;
 }
 
-.clean-slider .sp-selected-button {
+.zzslider .sp-selected-button {
   	background-color: #CC6600;
 }
 
-.clean-member-details h3{
+.zzmember-details h3{
 	color: #CC6600;
 }
 
-.clean-line{
+.zzline{
 	background-color: #CC6600;
 }
 
-.clean-counter-item h3:after {
+.zzcounter-item h3:after {
 	background-color: #fff;
 }
 
 /* ===================================
 	FEATURED WORK
 ====================================== */
-.clean-port-work-details .clean-port-work-desc p a:hover{
+.zzport-work-details .zzport-work-desc p a:hover{
 	color: #CC6600;
 }
 
-.clean-port-work-details .clean-port-work-desc h3{
+.zzport-work-details .zzport-work-desc h3{
 	color: #CC6600;
 }
 
-.clean-recommended-pricing{
+.zzrecommended-pricing{
 	border: 6px solid #CC6600;
 }
 
@@ -146,76 +146,76 @@ span.clean-color-contras{
 	background-color: #CC6600;
 }
 
-.clean-icones{
+.zzicones{
 	overflow: hidden;
 	padding: 20px;
 	border-bottom: 1px dotted #CC6600;
 }
 
-.clean-icones-center{
+.zzicones-center{
 	border-left: 1px dotted #CC6600;
 	border-right: 1px dotted #CC6600;
 }
-.clean-portfolio-work-item .clean-work-meta li{
+.zzportfolio-work-item .zzwork-meta li{
 	background-color: #CC6600;
 }
 /* ===================================
 	PORTFOLIO
 ====================================== */
-.clean-portfolio-filter-btn-group ul li a.selected{
+.zzportfolio-filter-btn-group ul li a.selected{
 	color: #CC6600;
 }
 
-.clean-portfolio-filter-btn-group ul li a {
+.zzportfolio-filter-btn-group ul li a {
 	border-right: 1px dotted #CC6600;
 }
 
 /* ===================================
 	PRICING
 ====================================== */
-.clean-pricing-plans .clean-pricing-titles h2{
+.zzpricing-plans .zzpricing-titles h2{
 	color: #CC6600
 }
 
-.clean-pricing-plans {
+.zzpricing-plans {
 	border: 5px solid  #CC6600;
 }
 
-.clean-pricing-plans .clean-pricing-titles p span{
+.zzpricing-plans .zzpricing-titles p span{
 	color: #CC6600;
 }
 
 /* ===================================
 	SIGN UP 
 ====================================== */
-.clean-pricing-plans a.clean-signup-btn{
+.zzpricing-plans a.zzsignup-btn{
 	background-color: #CC6600;
 }
 
-.clean-pricing-plans a.clean-signup-btn:hover{
+.zzpricing-plans a.zzsignup-btn:hover{
 	opacity: 0.7;
 }
 
 /* ===================================
 	CONTACT
 ====================================== */
-.clean-contact-section .clean-contact-address ul li {
+.zzcontact-section .zzcontact-address ul li {
 	background-color: #CC6600;
 }
 
-.clean-contact-section .clean-contact-form input[type='submit']{
+.zzcontact-section .zzcontact-form input[type='submit']{
 	background-color: #CC6600;
 }
 
-.clean-contact-section .clean-contact-form input[type='submit']:hover{
+.zzcontact-section .zzcontact-form input[type='submit']:hover{
 	opacity: 0.7;
 }
 
-.clean-find-us-btn h3{
+.zzfind-us-btn h3{
 	color: #CC6600;
 }
 
-.clean-portfolio-information .clean-share-project ul li a:hover i{
+.zzportfolio-information .zzshare-project ul li a:hover i{
 	color: #CC6600;
 }
 

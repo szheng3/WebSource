@@ -62,14 +62,14 @@ ul{
   margin-bottom: 0;
 }
 
-header.clean-page-header{
+header.zzpage-header{
 	-webkit-background-size: cover;
 	height: 330px;
 	background-size: cover;
 	position: relative;
 }
 
-.clean-page-title{
+.zzpage-title{
 	position: relative;
 	z-index: 1;
 }
@@ -156,7 +156,7 @@ a:active{
   	border: 0;
 }
 
-.clean-page-title h1{
+.zzpage-title h1{
 	font-size: 36px;
 	font-weight: 700;
 	color: #ffffff;
@@ -169,7 +169,7 @@ a:active{
 /* ===================================
 	BUTTONS
 ====================================== */
-.clean-button-solid{
+.zzbutton-solid{
 	font-family: 'Raleway', sans-serif;
 	font-size: 14px;
 	font-weight: 700;
@@ -184,12 +184,12 @@ a:active{
 	        transition: all .35s;
 }
 
-.clean-button-solid:hover{
+.zzbutton-solid:hover{
 	color: #151B54;
 	background-color: #de5c39;
 }
 
-.clean-button-outline{
+.zzbutton-outline{
 	font-family: 'Raleway', sans-serif;
 	font-size: 14px;
 	font-weight: 700;
@@ -205,26 +205,26 @@ a:active{
 	        transition: all .35s;
 }
 
-.clean-button-outline-light{
+.zzbutton-outline-light{
 	border: 1px solid #ffffff;
 }
 
-.clean-button-outline-light:hover{
+.zzbutton-outline-light:hover{
 	color: #ffffff;
 	border: 1px solid transparent;
 }
 
-.clean-button-outline-dark{
+.zzbutton-outline-dark{
 	color: #28292e;
 	border: 1px solid #28292e;
 }
 
-.clean-button-outline-dark:hover{
+.zzbutton-outline-dark:hover{
 	color: #ffffff;
 	border: 1px solid transparent;
 }
 
-.clean-btn-round{
+.zzbtn-round{
 	font-family: 'Raleway', sans-serif;
 	font-size: 14px;
 	font-weight: 700;
@@ -243,7 +243,7 @@ a:active{
 	        transition: all .35s;
 }
 
-.clean-btn-round:hover{
+.zzbtn-round:hover{
 	color: #ffffff;
 }
 
@@ -251,32 +251,32 @@ a:active{
 /* ===================================
 	ICON
 ====================================== */
-.clean-blurb-icon-only{
+.zzblurb-icon-only{
 	margin-bottom: 50px;
 	text-align: center;
 }
 
-.clean-blurb-icon-only i{
+.zzblurb-icon-only i{
 	font-size: 30px;
 	border-radius: 50%;
 	border: 4px solid #eee;
 	padding: 30px;
 }
-.clean-blurb-icon-only i:hover{
+.zzblurb-icon-only i:hover{
 	background-color: #fff;
 }
-.clean-blurb-icon-only h3{
+.zzblurb-icon-only h3{
 	font-size: 16px;
 	margin-top: 25px;
 	margin-bottom: 15px;
 }
 
-.clean-blurb-icon-only p{
+.zzblurb-icon-only p{
 	margin-bottom: 0;
 }
 
 
-.clean-blurb-round-icon .clean-icon{
+.zzblurb-round-icon .zzicon{
 	width: 100px;
 	height: 100px;
 	margin: 0px auto 30px;
@@ -287,13 +287,13 @@ a:active{
 	padding: 8px;
 }
 
-.clean-blurb-round-icon .clean-icon i{
+.zzblurb-round-icon .zzicon i{
 	line-height: 70px;
 	font-size: 36px;
 	color: #dadada;
 }
 
-.clean-blurb-round-icon .clean-icon{
+.zzblurb-round-icon .zzicon{
 	-webkit-transition: all .35s linear;
 	   -moz-transition: all .35s linear;
 	    -ms-transition: all .35s linear;
@@ -301,15 +301,15 @@ a:active{
 	        transition: all .35s linear;
 }
 
-.clean-blurb-round-icon:hover .clean-icon{
+.zzblurb-round-icon:hover .zzicon{
 	border: 1px solid rgba(0,0,0,0);
 }
 
-.clean-blurb-round-icon:hover .clean-icon i{
+.zzblurb-round-icon:hover .zzicon i{
 	color: #ffffff;
 }
 
-.clean-blurb-round-icon h3{
+.zzblurb-round-icon h3{
 	text-align: center;
 	font-size: 18px;
 	color: #616161;
@@ -322,21 +322,21 @@ a:active{
 	        transition: all .3s linear;
 }
 
-.clean-blurb-round-icon p{
+.zzblurb-round-icon p{
 	margin-bottom: 0;
 	text-align: center;
 }
 
-.clean-icones{
+.zzicones{
 	overflow: hidden;
 	padding: 20px;
 }
 
-.clean-icones:last-child{
+.zzicones:last-child{
 	border-bottom: none;
 }
 
-.clean-icones .clean-icon{
+.zzicones .zzicon{
 	width: 70px;
 	height: 70px;
 	margin: 0 auto;
@@ -348,21 +348,21 @@ a:active{
 	border: 1px solid #dadada;
 }
 
-.clean-icones.clean-square-dark .clean-icon{
+.zzicones.zzsquare-dark .zzicon{
 	background-color: rgba(0,0,0,0.25);
 }
 
-.clean-icones .clean-icon i{
+.zzicones .zzicon i{
 	line-height: 70px;
 	font-size: 36px;
 }
 
-.clean-icones .clean-blurb-text{
+.zzicones .zzblurb-text{
 	float: left;
 	width: 260px;
 }
 
-.clean-icones .clean-blurb-text h3{
+.zzicones .zzblurb-text h3{
 	font-size: 16px;
 	margin-top: 0;
 	margin-bottom: 15px;
@@ -375,7 +375,7 @@ a:active{
 	        transition: all .3s linear;
 }
 
-.clean-icones .clean-blurb-text h3:after{
+.zzicones .zzblurb-text h3:after{
 	content: '';
 	width: 30px;
 	height: 2px;
@@ -390,7 +390,7 @@ a:active{
 	        transition: all .3s linear;
 }
 
-.clean-line{
+.zzline{
 	width: 100px;
 	height: 1px;
 	margin: 20px auto;
@@ -400,42 +400,42 @@ a:active{
 /* ===================================
 	SECTIONS
 ====================================== */
-.clean-section-wrapper{
+.zzsection-wrapper{
 	padding: 80px 0;
 	overflow: hidden;
 }
 
-.clean-section-header{
+.zzsection-header{
 	text-align: center;
 	margin-bottom: 80px;
 }
 
-.clean-section-header h1{
+.zzsection-header h1{
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
 	font-size: 30px;
 	color: #313131;
 }
 
-.clean-section-header h2{
+.zzsection-header h2{
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
 	font-size: 30px;
 	color: #313131;
 }
 
-.clean-section-header h1 span{
+.zzsection-header h1 span{
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
 	font-size: 30px;
 }
 
-.clean-section-header p{
+.zzsection-header p{
 	font-family: 'Raleway', sans-serif;
 }
 
 /* Parallax Section*/
-.clean-parallax-overlay{
+.zzparallax-overlay{
 	width: 100%;
 	height: 100%;
 	position: absolute;
@@ -443,19 +443,19 @@ a:active{
 	left: 0;
 }
 
-.clean-section-header-parallax h1{
+.zzsection-header-parallax h1{
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
 	font-size: 30px;
 }
 
-.clean-section-header-parallax h1 span{
+.zzsection-header-parallax h1 span{
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
 	font-size: 30px;
 }
 
-.clean-section-header-parallax p{
+.zzsection-header-parallax p{
 	font-family: 'Raleway', sans-serif;
 }
 
@@ -464,7 +464,7 @@ a:active{
 /* ===================================
 	MENUS
 ====================================== */
-.clean-main-menu{
+.main-menu{
     background-color: #28292e;
     background-color: transparent;
     border: 0 none;
@@ -481,20 +481,20 @@ a:active{
             transition: all .35s;
 }
 
-header.clean-page-header .clean-main-menu{
+header.zzpage-header .main-menu{
 	position: relative;
 }
 
-.clean-main-menu .navbar-brand{
+.main-menu .navbar-brand{
     padding: 30px 0;
 }
 
-.clean-main-menu .navbar-nav{
+.main-menu .navbar-nav{
     float: right;
     padding: 30px 0;
 }
 
-.clean-main-menu .navbar-nav li a{
+.main-menu .navbar-nav li a{
 	color: #CC6600;
     font-size: 13px;
     font-weight: 700;
@@ -509,24 +509,24 @@ header.clean-page-header .clean-main-menu{
             transition: all .3s;
 }
 
-.clean-main-menu .navbar-nav li a:hover,
-.clean-main-menu .navbar-nav li.active a{
+.main-menu .navbar-nav li a:hover,
+.main-menu .navbar-nav li.active a{
     background-color: transparent;
 }
 
-.clean-main-menu .navbar-nav li a:focus{
+.main-menu .navbar-nav li a:focus{
 	background-color: transparent;
 }
 
 /* Minified Menu */
-.clean-main-menu.minified{
+.main-menu.minified{
 	background-color: #ffffff;
 	padding: 0;
 	position: fixed;
 	box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0), 0px 2px 10px 0px rgba(0, 0, 0, 0.08);
 }
 
-header.clean-page-header .clean-main-menu.minified{
+header.zzpage-header .main-menu.minified{
 	position: fixed;
 }
 
@@ -534,12 +534,12 @@ header.clean-page-header .clean-main-menu.minified{
 /* ===================================
 	SLIDERS
 ====================================== */
-.clean-slider{
+.zzslider{
 	overflow: hidden;
 	background-color: #28292e;
 }
 
-.clean-main-slides .clean-img-overlay{
+.zzmain-slides .zzimg-overlay{
 	position: absolute;
 	background-color: rgba(218, 218, 234, 0.42);
 	width: 100%;
@@ -550,7 +550,7 @@ header.clean-page-header .clean-main-menu.minified{
 	right: 0;
 }
 
-.clean-main-slides h1.clean-slider-text-big{
+.zzmain-slides h1.zzslider-text-big{
 	font-size: 48px;
 	color: #CC6600;
 	text-transform: uppercase;
@@ -558,12 +558,12 @@ header.clean-page-header .clean-main-menu.minified{
 	margin-bottom: 25px;
 }
 
-.clean-main-slides .clean-slider-text h1 span{
+.zzmain-slides .zzslider-text h1 span{
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
 }
 
-.clean-main-slides p{
+.zzmain-slides p{
 	font-family: 'Raleway', sans-serif;
 	font-weight: 400;
 	font-size: 30px !important;
@@ -576,7 +576,7 @@ header.clean-page-header .clean-main-menu.minified{
 	height: 100px !important;
 }
 
-.clean-slider .sp-buttons {
+.zzslider .sp-buttons {
   padding-top: 10px;
   position: absolute;
   text-align: center;
@@ -584,7 +584,7 @@ header.clean-page-header .clean-main-menu.minified{
   bottom: 20px;
 }
 
-.clean-slider .sp-button {
+.zzslider .sp-button {
   border: 1px solid #fff;
   border-radius: 50%;
   box-sizing: border-box;
@@ -599,14 +599,14 @@ header.clean-page-header .clean-main-menu.minified{
 /* ===================================
 	FEATURES
 ====================================== */
-.clean-features-section .container{
+.zzfeatures-section .container{
 	position: relative;
 	z-index: 1;
 }
 .features-details {
 	padding: 0 !important;
 }
-.clean-features-section{
+.zzfeatures-section{
 	background-attachment: fixed;
 	-webkit-background-size: cover;
 	background-size: cover;
@@ -620,16 +620,16 @@ header.clean-page-header .clean-main-menu.minified{
 /* ===================================
 	FEATURED WORK
 ====================================== */
-.clean-portfolio-work-item{
+.zzportfolio-work-item{
 	height: 280px;
 	position: relative;
 }
 
-.clean-portfolio-work-item img{
+.zzportfolio-work-item img{
 	height: 100%;
 }
 
-.clean-portfolio-work-item .clean-port-work-details{
+.zzportfolio-work-item .zzport-work-details{
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -638,14 +638,14 @@ header.clean-page-header .clean-main-menu.minified{
 	text-align: center;
 }
 
-.clean-portfolio-work-item .clean-work-meta{
+.zzportfolio-work-item .zzwork-meta{
 	position: absolute;
 	right: 0;
 	padding-right: 38%;
 	padding-top: 30%;
 }
 
-.clean-portfolio-work-item .clean-work-meta li{
+.zzportfolio-work-item .zzwork-meta li{
 	width: 80px;
 	height: 80px;
 	margin-bottom: 1px;
@@ -656,7 +656,7 @@ header.clean-page-header .clean-main-menu.minified{
 	border-radius: 50%;
 }
 
-.clean-portfolio-work-item:hover .clean-port-work-details .clean-work-meta li{
+.zzportfolio-work-item:hover .zzport-work-details .zzwork-meta li{
 	opacity: 1;
 	-webkit-transform: scale(1);
 	   -moz-transform: scale(1);
@@ -665,17 +665,17 @@ header.clean-page-header .clean-main-menu.minified{
 	        transform: scale(1);
 }
 
-.clean-port-work-details .clean-work-meta li a{
+.zzport-work-details .zzwork-meta li a{
 	display: block;
 }
 
-.clean-port-work-details .clean-work-meta li a i{
+.zzport-work-details .zzwork-meta li a i{
 	font-size: 30px;
 	color: #FFF;
 	line-height: 75px;
 }
 
-.clean-port-work-details .clean-port-work-desc{
+.zzport-work-details .zzport-work-desc{
 	width: 100%;
 	position: absolute;
 	bottom: 0;
@@ -695,7 +695,7 @@ header.clean-page-header .clean-main-menu.minified{
 
 }
 
-.clean-portfolio-work-item:hover .clean-port-work-desc{
+.zzportfolio-work-item:hover .zzport-work-desc{
 	opacity: 1;
 	-webkit-transform: translateY(0);
 	   -moz-transform: translateY(0);
@@ -704,32 +704,32 @@ header.clean-page-header .clean-main-menu.minified{
 	        transform: translateY(0);
 }
 
-.clean-port-work-details .clean-port-work-desc h3{
+.zzport-work-details .zzport-work-desc h3{
 	font-size: 18px;
 	margin-top: 0;
 	margin-bottom: 5px;
 }
 
-.clean-port-work-details .clean-port-work-desc p a{
+.zzport-work-details .zzport-work-desc p a{
 	font-size: 14px;
 	color: #ffffff;
 	margin-top: 0;
 	margin-bottom: 0;
 }
 
-.clean-port-work-details .clean-port-work-desc .clean-like-btn {
+.zzport-work-details .zzport-work-desc .zzlike-btn {
 	text-align: center;
 	padding: 10px 15px;
 }
 
-.clean-port-work-details .clean-port-work-desc .clean-like-btn a{
+.zzport-work-details .zzport-work-desc .zzlike-btn a{
 	font-family: 'Raleway', sans-serif;
 	font-size: 18px;
 	font-weight: 400;
 	color: #ffffff;
 }
 
-.clean-port-work-details .clean-port-work-desc .clean-like-btn a i{
+.zzport-work-details .zzport-work-desc .zzlike-btn a i{
 	font-size: 21px;
 	color: #ffffff;
 	margin-right: 5px;
@@ -740,7 +740,7 @@ header.clean-page-header .clean-main-menu.minified{
 /* ===================================
 	OFFERS
 ====================================== */
-.clean-offer-section{
+.zzoffer-section{
 	padding-bottom: 30px;
 }
 
@@ -750,30 +750,30 @@ header.clean-page-header .clean-main-menu.minified{
 /* ===================================
 	CUSTOM SECTION
 ====================================== */
-.clean-custom-sec-text p{
+.zzcustom-sec-text p{
 	margin-bottom: 20px;
 }
 
-.clean-custom-sec-text h3{
+.zzcustom-sec-text h3{
 	font-size: 18px;
 	color: #616161;
 	margin-top: 0px;
 	margin-bottom: 20px;
 }
 
-.clean-custom-sec-text ul{
+.zzcustom-sec-text ul{
 	margin-left: 30px;
 }
 
-.clean-custom-sec-text ul li{
+.zzcustom-sec-text ul li{
 	margin-bottom: 10px;
 }
 
-.clean-custom-sec-text ul li:last-child{
+.zzcustom-sec-text ul li:last-child{
 	margin-bottom: 0;
 }
 
-.clean-custom-sec-text ul li i{
+.zzcustom-sec-text ul li i{
 	font-size: 14px;
 	margin-right: 10px;
 }
@@ -783,38 +783,38 @@ header.clean-page-header .clean-main-menu.minified{
 /* ===================================
 	TESTIMONIALS
 ====================================== */
-.clean-testimonial-section{
+.zztestimonial-section{
 	position: relative;
 	padding: 80px 0;
 	overflow: hidden;	
 }
 
-.clean-member-img-wrapper img {
+.zzmember-img-wrapper img {
 	border-radius: 50%;
 	margin-bottom: 20px;
 }
 
-.clean-testimonial-wrapper{
+.zztestimonial-wrapper{
 	text-align: center;
 	position: relative;
 	z-index: 5;
 }
 
-.clean-testimonial-wrapper .comment-icon{
+.zztestimonial-wrapper .comment-icon{
 	font-size: 24px;
 	text-align: center;
 }
 
-.clean-testimonial{
+.zztestimonial{
 	overflow: hidden;
 }
 
-.clean-testimonial p{
+.zztestimonial p{
 	font-size: 16px;
 	margin-bottom: 20px;
 }
 
-.clean-testimonial p.clean-client-info{
+.zztestimonial p.zzclient-info{
 	font-size: 14px;
 	font-weight: 700;
 	margin-bottom: 0
@@ -825,17 +825,17 @@ header.clean-page-header .clean-main-menu.minified{
 /* ===================================
 	PRICING
 ====================================== */
-.clean-pricing-section{
+.zzpricing-section{
 	padding: 80px 0;
 }
 
-.clean-pricing-plans{
+.zzpricing-plans{
 	text-align: center;
 	padding: 30px 0;
 	background-color: #ffffff;
 }
 
-.clean-recommended-pricing{
+.zzrecommended-pricing{
 	background-color: #ffffff;
 }
 
@@ -847,47 +847,47 @@ header.clean-page-header .clean-main-menu.minified{
 	color: #ffffff !important;
 }
 
-.clean-pricing-plans .recommended-titles p{
+.zzpricing-plans .recommended-titles p{
 	color: #ffffff !important;
 }
 
-.clean-pricing-plans .recommended-titles p span{
+.zzpricing-plans .recommended-titles p span{
 	color: #ffffff !important;
 }
 
-.clean-pricing-plans .clean-pricing-titles{
+.zzpricing-plans .zzpricing-titles{
 	margin-bottom: 40px;
 	text-align: center;
 }
 
-.clean-pricing-plans .clean-pricing-titles h2{
+.zzpricing-plans .zzpricing-titles h2{
 	font-size: 24px;
 	font-weight: 700;
 	margin-bottom: 5px;
 }
 
-.clean-pricing-plans .clean-pricing-titles p{
+.zzpricing-plans .zzpricing-titles p{
 	font-size: 16px;
 }
 
-.clean-pricing-plans .clean-pricing-titles p span{
+.zzpricing-plans .zzpricing-titles p span{
 	font-size: 30px;
 	font-weight: 300;
 }
 
-.clean-pricing-plans .clean-pricing-service-name{
+.zzpricing-plans .zzpricing-service-name{
 	margin-bottom: 20px;
 }
 
-.clean-pricing-plans ul li{
+.zzpricing-plans ul li{
 	text-align: center;
 	padding: 10px 0;
 }
 
-.clean-pricing-plans ul li:last-child{
+.zzpricing-plans ul li:last-child{
 	border-bottom: 0px solid;
 }
-.clean-pricing-plans a.clean-signup-btn{
+.zzpricing-plans a.zzsignup-btn{
 	font-family: 'Raleway', sans-serif;
 	font-size: 14px;
 	font-weight: 700;
@@ -906,7 +906,7 @@ header.clean-page-header .clean-main-menu.minified{
 	        transition: all .35s;
 }
 
-.clean-pricing-plans a.clean-signup-btn:hover{
+.zzpricing-plans a.zzsignup-btn:hover{
 	color: #ffffff;
 	background-color: #ff653d;
 }
@@ -920,7 +920,7 @@ header.clean-page-header .clean-main-menu.minified{
 	margin: 0 15%;
 }
 
-.clean-contact-section{
+.zzcontact-section{
 	background-attachment: fixed;
 	-webkit-background-size: cover;
 	background-size: cover;
@@ -929,32 +929,32 @@ header.clean-page-header .clean-main-menu.minified{
 	overflow: hidden;
 }
 
-.clean-contact-section .clean-contact-address p{
+.zzcontact-section .zzcontact-address p{
 	color: #ffffff;
 }
 
-.clean-contact-section .clean-contact-address ul li{
+.zzcontact-section .zzcontact-address ul li{
 	margin-bottom: 25px;
 	font-size: 14px;
 	position: relative;
 	padding: 15px;
 }
 
-.clean-contact-section .clean-contact-address ul li:last-child{
+.zzcontact-section .zzcontact-address ul li:last-child{
 	margin-bottom: 0;
 }
 
-.clean-contact-section .clean-contact-address ul li i{
+.zzcontact-section .zzcontact-address ul li i{
 	font-size: 50px;
 	line-height: 55px;
 	color: #ffffff;
 }
 
-.clean-contact-section .clean-contact-form .clean-input-fields{
+.zzcontact-section .zzcontact-form .zzinput-fields{
 	margin-bottom: 20px;
 }
 
-.clean-contact-section .clean-contact-form .clean-input-fields label{
+.zzcontact-section .zzcontact-form .zzinput-fields label{
 	display: block;
 	font-size: 14px;
 	font-family: 'Raleway',sans-serif;
@@ -962,7 +962,7 @@ header.clean-page-header .clean-main-menu.minified{
 	margin-bottom: 10px;
 }
 
-.clean-contact-section .clean-contact-form .clean-input-fields input{
+.zzcontact-section .zzcontact-form .zzinput-fields input{
 	width: 100%;
 	height: 40px;
 	background-color: transparent;
@@ -971,14 +971,14 @@ header.clean-page-header .clean-main-menu.minified{
 	padding-right: 15px;
 }
 
-.clean-contact-section .clean-contact-form .clean-input-fields textarea{
+.zzcontact-section .zzcontact-form .zzinput-fields textarea{
 	width: 100%;
 	background-color: transparent;
 	border: 1px solid #999999;
 	padding: 15px;
 }
 
-.clean-contact-section .clean-contact-form input[type='submit']{
+.zzcontact-section .zzcontact-form input[type='submit']{
 	font-family: 'Raleway', sans-serif;
 	font-size: 14px;
 	font-weight: 700;
@@ -999,7 +999,7 @@ header.clean-page-header .clean-main-menu.minified{
 	        transition: all .35s;
 }
 
-.clean-contact-section .clean-contact-form .clean-input-fields input[type='submit']:hover{
+.zzcontact-section .zzcontact-form .zzinput-fields input[type='submit']:hover{
 	color: #ffffff;
 	background-color: #de5c39;
 }
@@ -1039,11 +1039,11 @@ footer{
 	overflow: hidden;
 }
 
-footer .clean-footer-content{
+footer .zzfooter-content{
 	text-align: center;
 }
 
-footer .clean-footer-logo{
+footer .zzfooter-logo{
 	text-align: center;
 	margin-bottom: 20px;
 }
