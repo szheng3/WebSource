@@ -64,6 +64,7 @@ html[xmlns] .slides {display: block;}
     opacity: 0;
     -webkit-transition: all .3s ease;
 }
+
 .flex-direction-nav .flex-next {background-position: 100% 0;}
 .flex-direction-nav .flex-prev {left: -36px;}
 .flexslider:hover .flex-next {opacity: 0.8; right: 5px;}
