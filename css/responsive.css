@@ -1,6 +1,6 @@
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .puge-main-menu.minified {
+    .zzmain-menu.minified {
       background-color: #28292e;
       padding: 20px 0 0;
       position: fixed;
@@ -22,7 +22,7 @@
   	  text-align: center;
   }
 
-  .puge-main-menu .navbar-nav {
+    .zzmain-menu .navbar-nav {
       display: inline-block;
       float: none;
   }
@@ -33,12 +33,12 @@
       margin-bottom: 5px;
   }
 
-  .puge-team-slides .puge-member-img-wrapper{
+    .zzteam-slides .zzmember-img-wrapper {
       width: 35%;
       margin-right: 5%;
   }
 
-  .puge-member-details {
+    .zzmember-details {
       display: inline-block;
       float: left;
       width: 60%;
@@ -49,7 +49,7 @@
 
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .puge-main-menu.minified {
+    .zzmain-menu.minified {
       padding: 20px 0 0;
       position: fixed;
   }
@@ -70,7 +70,7 @@
   	  text-align: center;
   }
 
-  .puge-main-menu .navbar-nav {
+    .zzmain-menu .navbar-nav {
       display: inline-block;
       float: none;
   }
@@ -81,34 +81,34 @@
       margin-bottom: 5px;
   }
 
-  .puge-icones .puge-icon {
+    .zzicones .zzicon {
       height: 50px;
       width: 50px;
       margin-right: 20px;
   }
 
-  .puge-icones .puge-blurb-text {
+    .zzicones .zzblurb-text {
       float: left;
       width: 140px;
   }
 
-  .puge-icones .puge-icon i {
+    .zzicones .zzicon i {
       font-size: 24px;
       line-height: 50px;
   }
 
-  .puge-team-slides .puge-member-img-wrapper{
+    .zzteam-slides .zzmember-img-wrapper {
       width: 35%;
       margin-right: 5%;
   }
 
-  .puge-member-details {
+    .zzmember-details {
       display: inline-block;
       float: left;
       width: 60%;
   }
 
-  .puge-portfolio-items .puge-portfolio-item {
+    .zzportfolio-items .zzportfolio-item {
       height: 280px;
       overflow: hidden;
       position: relative;
@@ -120,7 +120,7 @@
 
 
 @media only screen and (max-width: 767px) {
-  .puge-section-header {
+    .zzsection-header {
       margin-bottom: 60px;
       text-align: center;
   }
@@ -146,69 +146,69 @@
       max-height: auto;
   }
 
-  .puge-main-menu .navbar-nav {
+    .zzmain-menu .navbar-nav {
       float: none;
       padding: 10px 0;
   }
 
-  .puge-main-menu .navbar-nav li {
+    .zzmain-menu .navbar-nav li {
       margin-bottom: 10px;
   }
 
-  .puge-main-menu .navbar-nav li:last-child{
+    .zzmain-menu .navbar-nav li:last-child {
   	 margin-bottom: 0;
   }
 
-  .puge-blurb-icon-only {
+    .zzblurb-icon-only {
       margin-bottom: 50px;
   }
 
-  .puge-blurb-icon-only:last-child{
+    .zzblurb-icon-only:last-child {
   	 margin-bottom: 0;
   }
 
-  .puge-icones .puge-blurb-text {
+    .zzicones .zzblurb-text {
       float: left;
       width: 61%;
   }
 
-  .puge-blurb-round-icon {
+    .zzblurb-round-icon {
       margin-bottom: 50px;
   }
 
-  .puge-blurb-round-icon:last-child{
+    .zzblurb-round-icon:last-child {
       margin-bottom: 0;
   }
 
-  .puge-process-item {
+    .zzprocess-item {
       text-align: center;
       margin-bottom: 50px;
   }
 
-  .puge-process-item:last-child{
+    .zzprocess-item:last-child {
   	  margin-bottom: 0;
   }
 
-  .puge-cta-1 h2 {
+    .zzcta-1 h2 {
       text-align: center;
       margin-bottom: 30px;
   }
 
-  .puge-cta-1 p{
+    .zzcta-1 p {
     	text-align: center;
     	margin-bottom: 20px;
   }
 
-  .puge-cta-1 .puge-cta-btn{
+    .zzcta-1 .zzcta-btn {
   	  text-align: center;
   }
 
-  .puge-cta-1 .puge-cta-btn a{
+    .zzcta-1 .zzcta-btn a {
   	  float: none;
   }
 
-  .puge-main-slides h1.puge-slider-text-big {
-      color: #ffffff;
+    .zzmain-slides h1.zzslider-text-big {
+        color: #CC6600;
       font-size: 24px;
       margin-bottom: 25px;
       margin-top: 0;
@@ -218,8 +218,8 @@
       width: 100% !important;
   }
 
-  .puge-main-slides p {
-      color: #ffffff;
+    .zzmain-slides p {
+        color: #CC6600;
       font-family: "Raleway",sans-serif;
       font-size: 18px !important;
       font-weight: 400;
@@ -230,49 +230,49 @@
       width: 100% !important;
   }
 
-  .puge-team-slides .puge-member-img-wrapper {
+    .zzteam-slides .zzmember-img-wrapper {
       float: none;
       height: auto;
       width: 100%;
   }
 
-  .puge-member-details {
+    .zzmember-details {
       float: none;
       width: 100%;
       text-align: center;
   }
 
-  .puge-member-details ul {
+    .zzmember-details ul {
   	  display: inline-block; 
   }
 
-  .puge-counter-item {
+    .zzcounter-item {
       margin-bottom: 50px;
   }
 
-  .puge-counter-item:last-child{
+    .zzcounter-item:last-child {
   	  margin-bottom: 0;
   }
 
-  .puge-portfolio-items .puge-portfolio-item {
+    .zzportfolio-items .zzportfolio-item {
       height: 280px;
       overflow: hidden;
       position: relative;
       width: 100%;
   }
 
-  .puge-section-wrapper .puge-custom-sec-img{
+    .zzsection-wrapper .zzcustom-sec-img {
       margin-bottom: 20px;
   }
 
-  .puge-contact-section .puge-contact-address {
+    .zzcontact-section .zzcontact-address {
       margin-bottom: 50px;
   }
 
 }
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
-    .puge-portfolio-items .puge-portfolio-item {
+    .zzportfolio-items .zzportfolio-item {
        width: 50%;
     }
 
