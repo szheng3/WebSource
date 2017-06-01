@@ -143,7 +143,7 @@
   .navbar-collapse {
       border-top: 0px solid transparent;
       box-shadow: 0 0px 0 rgba(255, 255, 255, 0) inset;
-      max-height: auto;
+      /*max-height: auto;*/
   }
 
     .zzmain-menu .navbar-nav {
