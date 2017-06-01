@@ -2231,6 +2231,18 @@ h3.tittle {
     -webkit-appearance: none;
 }
 
+.contact-form input[type="email"] {
+    width: 100%;
+    color: #555;
+    background: none;
+    outline: none;
+    font-size: 1em;
+    padding: .5em;
+    margin-bottom: 1em;
+    border: solid 1px #D5D4D4;
+    -webkit-appearance: none;
+}
+
 .contact-form textarea {
     resize: none;
     width: 100%;
