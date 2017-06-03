@@ -465,8 +465,8 @@ a:active{
 	MENUS
 ====================================== */
 .main-menu{
-    background-color: #28292e;
-    background-color: transparent;
+    background-color: #FFFFFF;
+    /*background-color: transparent;*/
     border: 0 none;
     border-radius: 0;
     position: fixed;
