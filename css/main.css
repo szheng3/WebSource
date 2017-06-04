@@ -165,10 +165,9 @@ a:active{
 	text-align: center;
 }
 
-
-/* ===================================
-	BUTTONS
-====================================== */
+/*!* ===================================*/
+/*BUTTONS*/
+/*====================================== *!*/
 .zzbutton-solid{
 	font-family: 'Raleway', sans-serif;
 	font-size: 14px;
@@ -247,10 +246,9 @@ a:active{
 	color: #ffffff;
 }
 
-
-/* ===================================
-	ICON
-====================================== */
+/*!* ===================================*/
+/*ICON*/
+/*====================================== *!*/
 .zzblurb-icon-only{
 	margin-bottom: 50px;
 	text-align: center;
@@ -396,10 +394,9 @@ a:active{
 	margin: 20px auto;
 }
 
-
-/* ===================================
-	SECTIONS
-====================================== */
+/*!* ===================================*/
+/*SECTIONS*/
+/*====================================== *!*/
 .zzsection-wrapper{
 	padding: 80px 0;
 	overflow: hidden;
@@ -786,7 +783,7 @@ header.zzpage-header .main-menu.minified{
 .zztestimonial-section{
 	position: relative;
 	padding: 80px 0;
-	overflow: hidden;	
+    overflow: hidden;
 }
 
 .zzmember-img-wrapper img {
