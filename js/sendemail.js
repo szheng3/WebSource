@@ -12,8 +12,9 @@ $(document).ready(function () {
         //get the name field value
         var email = $('#email').val();
         //get the comments
-        var comments = $('#message').val();
         var subject = $('#subject').val();
+
+        var comments = $('#message').val();
 
 
         //pretend we don't need validation
