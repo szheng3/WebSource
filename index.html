@@ -7,7 +7,6 @@
 
     <!--PAGE TITLE-->
     <title>CLEAN - SLIDER RESPONSIVE HTML TEMPLATE</title>
-    <script src="js/jquery.min.js"></script>
 
 
     <!-- ===================================
@@ -718,11 +717,10 @@
 
                     </div>
                     <div class="col-md-6 contact-form">
-                        <form action="https://formspree.io/szheng3@uci.edu"
-                              method="POST">
-                            <input type="text" name="name" id="inputName" placeholder="Name" required="">
-                            <input type="email" name="email" id="inputEmail" placeholder="Email" required="">
-                            <input type="text" name="subject" placeholder="Subject" required="">
+                        <form id="someForm">
+                            <input type="text" name="name" id="name" placeholder="Name" required="">
+                            <input type="email" name="email" id="email" placeholder="Email" required="">
+                            <input type="text" name="subject" placeholder="subject" required="">
                             <textarea placeholder="Message" name="message" required=""></textarea>
                             <input type="text" name="_gotcha" class="hide">
                             <input type="submit" value="Send">
@@ -730,6 +728,16 @@
                     </div>
                     <div class="clearfix"></div>
                 </div>
+                <!--<div id="formBlock">-->
+                <!--<form id="someForm">-->
+                <!--<label for="name">Name:</label> <input type="text" id="name"><br/>-->
+                <!--<label for="email">Email:</label> <input type="email" id="email"><br/>-->
+                <!--<label for="comments">Comments:</label> <br/>-->
+                <!--<textarea id="comments"></textarea><br/>-->
+                <!--<input type="submit">-->
+                <!--</form>-->
+                <!--</div>-->
+
 
                 <!-- Contact Form -->
                 <!--<div class="col-md-12 col-sm-12 col-xs-12 zzcontact-form wow bounceInRight">-->
@@ -832,5 +840,10 @@
 <script src="js/wow.min.js"></script>
 <script src="js/jquery.nav.js"></script>
 <script src="js/custom.js"></script>
+
+
+<script type="text/javascript" src="js/2.1.4_jquery.js"></script>
+<script src="js/sendemail.js"></script>
+
 </body>
 </html>
