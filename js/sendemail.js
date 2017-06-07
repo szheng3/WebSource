@@ -26,6 +26,7 @@ $(document).ready(function () {
             data: {
                 name: name,
                 _replyto: email,
+                subject: subject,
                 comments: comments,
                 _subject: subject,
             },
